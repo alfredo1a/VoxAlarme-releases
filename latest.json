@@ -1,7 +1,7 @@
 {
   "versionCode": 10,
   "versionName": "2.7",
-  "notes": "Novidades da versão 2.7:\n• Alarme mensal: toque em \"Quando\" → \"Todo mês em um dia…\" e escolha o dia (1 a 31). No dia 29, 30 ou 31, em meses mais curtos, ele toca no último dia do mês.\n• Também dá para ativar na tela de edição do alarme: \"Repetir todo mês\".\n• Pelo assistente de voz: \"todo dia 10 do mês às 9 pagar aluguel\" ou \"todo mês no dia 5 conta de luz\".\n• \"Pular próximo\" funciona no alarme mensal.",
+  "notes": "Novidades da versão 2.7:\n• Alarme mensal: toque em \"Quando\" → \"Todo mês em um dia…\" e escolha o dia (1 a 31). No dia 29, 30 ou 31, em meses mais curtos, ele toca no último dia do mês.\n• Também dá para ativar na tela de edição do alarme: \"Repetir todo mês\".\n• Pelo assistente de voz: \"todo dia 10 do mês às 9 pagar aluguel\" ou \"todo mês no dia 5 conta de luz\".\n• \"Pular próximo\" funciona no alarme mensal.\n• Nova tela inicial: saudação, destaque do próximo alarme com horário grande, assistente logo no topo e \"Novo alarme\" que pode ser recolhido.\n• Histórico e Configurações viraram ícones no topo; o card de \"Sua voz de alarme\" saiu da tela inicial.",
   "apk": "VoxAlarme-10.apk",
-  "size": 21381754
+  "size": 22445688
 }
