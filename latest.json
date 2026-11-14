@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "2.6",
-  "notes": "Novidades da versão 2.6:\n• Assistente por voz: toque em \"Falar com o assistente\" e peça, por exemplo, \"me acorda amanhã às 6 e meia\" ou \"todo dia às 8 da noite tomar remédio\".\n• Com a IA ativada (Claude), ele também altera, pausa, pula e apaga alarmes e muda configurações.\n• Atualização automática: o app avisa quando houver versão nova.",
-  "apk": "VoxAlarme-9.apk",
-  "size": 21375302
+  "versionCode": 10,
+  "versionName": "2.7",
+  "notes": "Novidades da versão 2.7:\n• Alarme mensal: toque em \"Quando\" → \"Todo mês em um dia…\" e escolha o dia (1 a 31). No dia 29, 30 ou 31, em meses mais curtos, ele toca no último dia do mês.\n• Também dá para ativar na tela de edição do alarme: \"Repetir todo mês\".\n• Pelo assistente de voz: \"todo dia 10 do mês às 9 pagar aluguel\" ou \"todo mês no dia 5 conta de luz\".\n• \"Pular próximo\" funciona no alarme mensal.",
+  "apk": "VoxAlarme-10.apk",
+  "size": 21381754
 }
