@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "2.8",
-  "notes": "Novidades da versão 2.8:\n• A Vox ouve dentro do app, sem abrir a tela de voz do Google, e não fala mais as respostas: elas aparecem escritas.\n• Conversa: se faltar o horário (\"crie um alarme todo dia 5 do mês\"), ela pergunta \"a que horas?\" e já volta a ouvir. É só responder, por exemplo: \"às 9\".\n• Entende muito mais jeitos de falar: números por extenso (\"vinte e uma e trinta\"), \"10 pras 7\", \"umas 5 e meia\", \"timer de 10 minutos\", \"dia 3 de janeiro\", \"1º\", \"toda segunda quarta e sexta\" e outros.\n• Reconhecimento de voz mais preciso: usa o reconhecedor online e espera mais antes de cortar a sua fala.",
-  "apk": "VoxAlarme-11.apk",
-  "size": 7283135
+  "versionCode": 12,
+  "versionName": "2.9",
+  "notes": "Novidades da versão 2.9:\n• A Vox não esquece mais o pedido no meio da conversa: se você responder outra coisa quando ela perguntar \"a que horas?\", ela lembra o que ainda falta.\n• Dá para dar o nome durante a conversa: \"o nome é reembolso do Lucas\".\n• Logo depois de criar, dá para corrigir: \"muda o nome pra...\", \"ajusta o nome do alarme pra...\", \"não, é de manhã\", \"não, às 9\".\n• Horário mais certo: \"09:30\" é sempre de manhã, e em alarmes que se repetem (como \"todo dia 5 do mês\") \"9:30\" também é 9h30.\n• Entende \"com o nome\" mesmo quando o reconhecimento de voz escreve \"com um homem\".\n• Respostas mais claras, por exemplo: Criei o alarme \"Reembolso do Lucas\" para todo dia 5 do mês às 09:30.",
+  "apk": "VoxAlarme-12.apk",
+  "size": 7288415
 }
